@@ -1,0 +1,7 @@
+com/intertech/domain/Shiporder.class
+com/intertech/lab6/Startup.class
+com/intertech/domain/Shiporder$Shipto.class
+com/intertech/lab6/ShipOrderEnricher.class
+com/intertech/domain/Shiporder$Item.class
+com/intertech/lab6/ExampleServiceActivator.class
+com/intertech/domain/ObjectFactory.class
